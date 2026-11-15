@@ -53,22 +53,6 @@ I'm Mijaulina Tanjung,
 
 ---
 
-<h3 align="center">Trophy 🏆</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanjung0115&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophy" />
-</p>
-
----
-
-<h3 align="center">Activity 📈</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanjung0115&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
 <h3 align="center">Snek 🐍</h3>
 
 <p align="center">
