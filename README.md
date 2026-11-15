@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Mijaulina</h1>
+<h1 align="center">Hey 👋 I'm Mija Tanjung</h1>
 
 <p align="center">
   <!-- Ganti src dengan link gambar/GIF banner pilihanmu -->
